@@ -14,7 +14,7 @@ i've been start learn code for 6 years when i mite with html, css, javascript, p
 <a href="https://www.github.com/ilyasSerjaoui" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ilyasSerjaoui?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
 
-<a href="http://www.github.com/ilyasSerjaoui"><img src="https://github-readme-stats.vercel.app/api?username=ilyasSerjaoui&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=0891b2&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="ilyasSerjaoui's GitHub stats" /></a>     <a href="https://github.com/ilyasSerjaoui" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasSerjaoui&langs_count=10&title_color=6366f1&text_color=0891b2&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/ilyasSerjaoui"><img src="https://github-readme-stats.vercel.app/api?username=ilyasSerjaoui&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=0891b2&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="ilyasSerjaoui's GitHub stats" /></a>
 
 
 
