@@ -5,13 +5,13 @@ Computer Science
 ------------------
 
 <h3>My Journey in Coding</h3>
-I began my coding journey in 2017 when I first encountered HTML, CSS, and JavaScript. Over time, I expanded my expertise by learning PHP, MySQL, ASP.NET Core, Java, C#, C/C++, This progression helped me develop a solid foundation in web development, backend systems, and object-oriented programming. As I explored these languages and technologies, I realized my passion for solving complex problems through code.
+I began my coding journey in 2017 when I first encountered HTML, CSS, and JavaScript. Over time, I expanded my expertise by learning PHP, MySQL, ASP.NET Core, Java, C#, and C/C++. This progression helped me develop a solid foundation in web development, backend systems, and object-oriented programming. As I explored these languages and technologies, I realized my passion for solving complex problems through code.
 
 My interest in mathematics and challenges naturally led me to experiment with data science and machine learning. While my experience in these fields is still growing, I find the potential of these technologies both fascinating and inspiring. If life ever demands it, I’m confident I can deepen my expertise in these areas to provide meaningful contributions.
 
-One area where my love for problem-solving and mathematics shines is in creating encryption and decryption systems. I’ve written systems to secure and protect private data, not just as a practical exercise, but because I find it genuinely fun and intellectually rewarding. These experiences have strengthened my ability to think critically and approach challenges creatively, especially in areas involving algorithms and security.
-* 🌍  I'm based in casablanca
-* 🧠  I'm learning cybersecurity
+Alongside development, I also immersed myself in cybersecurity, where I combined my problem-solving mindset with technical skills to explore vulnerabilities, penetration testing, and secure system design. I’ve practiced web application security (covering OWASP Top 10), privilege escalation, and network reconnaissance, which has strengthened both my technical depth and analytical approach. These experiences not only sharpened my hacking and defense abilities but also gave me insight into how real-world systems can be hardened against threats.
+
+One area where my love for problem-solving and mathematics shines is in creating encryption and decryption systems. I’ve written systems to secure and protect private data, not just as a practical exercise, but because I find it genuinely fun and intellectually rewarding. These experiences have strengthened my ability to think critically and approach challenges creatively, especially in areas involving algorithms, security, and advanced coding concepts.
 
 <a href="https://www.github.com/ilyasSerjaoui" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ilyasSerjaoui?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
